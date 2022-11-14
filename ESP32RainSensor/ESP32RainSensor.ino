@@ -13,8 +13,8 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "AGILITY_EDIVAN";
-char pass[] = "04183144m";
+char ssid[] = "xxxxx";
+char pass[] = "xxxxx";
 
 bool estaChovendo = false;
 int timeInSeconds = 3600000;
